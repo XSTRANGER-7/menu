@@ -38,8 +38,8 @@ const ARViewer = ({ modelUrl, iosModelUrl }) => {
       shadow-intensity="1"
       environment-image="neutral"
       style={{ width: "100%", height: "500px" }}
-      scale="0.1 0.1 0.1"
-      camera-orbit="0deg 90deg 5m"
+      scale="0.05 0.05 0.05"
+      camera-orbit="0deg 90deg 2m"
       ar-placement="floor"
     >
       {/* <!-- AR Button --> */}
